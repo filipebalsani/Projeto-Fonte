@@ -19,7 +19,7 @@ O Zener faz a função de regulagem que visa cessar a variação de tensão do c
 É um resistor que pode variar o valor de sua resistência permitindo ajustar a tensão do circuito entre 12V e 3V.
 + #### Transistor Bipolar NPN
 O transistor permite a passagem de corrente de forma ajustável.
-## Tabela
+## Tabela de Componentes
 Componente|Quantidade|Preço
 ---|---|---
 [Transformador 15V](https://proesi.com.br/transformador-entrada-110-220v-saida-7-5-7-5-200ma.html)|1x|R$ 28,95
@@ -29,7 +29,7 @@ Componente|Quantidade|Preço
 [Resistor 2.2k](https://proesi.com.br/resistor-carbono-cr25-1-4w-2k2.html)|2x|R$ 0,03
 [Resistor 1k](https://proesi.com.br/resistor-carbono-cr25-1-4w-1k.html)|1x|R$ 0,03
 [Diodo Zener 13V](https://proesi.com.br/diodo-zener-1-4w-1n964-13v-bzx79c13v.html)|1x|R$ 0,12
-[Potenciômetro 5K](https://proesi.com.br/potenciometro-linear-l15-5k-16mm-eixo-estriado.html)|1x|R$ R$ 1,75
+[Potenciômetro 5K](https://proesi.com.br/potenciometro-linear-l15-5k-16mm-eixo-estriado.html)|1x|R$ 1,75
 [Transistor NPN](https://proesi.com.br/bc337-transistor.html)|1x|R$ 0,23
 
 
