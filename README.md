@@ -21,7 +21,7 @@ O Zener faz a função de regulagem que visa cessar a variação de tensão do c
 O transistor permite a passagem de corrente de forma ajustável.
 ## Tabela
 Componente|Quantidade|Preço
----|---|---|---
+---|---|---
 [Transformador 15V](https://proesi.com.br/transformador-entrada-110-220v-saida-7-5-7-5-200ma.html)|1x|R$ 28,95
 [Diodo 1N4004](https://proesi.com.br/1n4004-diodo.html)|4x|R$ 0,08
 [Capacitor 470uF](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html)|1x|
