@@ -1,5 +1,5 @@
 # Projeto-Fonte
-O Projeto consiste em criar o circuito de uma fonte de tensão ajustável entre 3V e 12V com apacidade de 100mA usando o simulador falstad e em seguida transformar esse circuito de representação simbólica em um Projeto do Esquemático e PCB (printed circuit board) usando a ferramenta EAGLE.
+O Projeto consiste em criar o circuito de uma fonte de tensão ajustável entre 3V e 12V com apacidade de 100mA usando o simulador [Falstad](https://www.falstad.com/circuit/) e em seguida transformar esse circuito de representação simbólica em um Projeto do Esquemático e PCB (printed circuit board) usando a ferramenta EAGLE.
 ## Componentes do Circuito:
 + #### Fonte de Tensão
 Para alimentar o circuito será preciso liga-lo numa tomada de 110v, portanto será usado  no circuito sumilado do falstad uma fonte de tensão de corrente alternada com 2 terminais configurada com uma **Tensão Máxima** de 179.6V e uma **Frequência** de 60Hz.
@@ -32,4 +32,4 @@ Componente|Quantidade|Preço
 [Potenciômetro 5K](https://proesi.com.br/potenciometro-linear-l15-5k-16mm-eixo-estriado.html)|1x|R$ 1,75
 [Transistor NPN](https://proesi.com.br/bc337-transistor.html)|1x|R$ 0,23
 
-
+##[Circuito Falstad](https://tinyurl.com/yk24k7uf)
