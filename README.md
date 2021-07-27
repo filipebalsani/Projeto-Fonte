@@ -20,6 +20,13 @@ Voltagem antes da Ponte de Diodo Retificadora                                   
 |A diferença entre o pico antes da ponte de diodo (21.192 V) e depois da ponte de diodo (19.766 V)|é causada por conta da queda de tensão de 0.7V que cada diodo causa (21.192 - 19.766 = 1.426 V)
 + #### Capacitor
 O próximo componente é o capacitor que faz a filtragem diminuindo a variação de tensão do circuito chamada de _ripple_ (diferença entre o valor do pico da variação da tensão e o valor do ponto mais baixo da variação da tensão) e deixando a tensão e a corrente mais estáveis.
+Voltagem antes do Capacitor                                                                 | Voltagem depois do Capacitor
+:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_3.png "Gráfico da Voltagem")|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_4.png "Gráfico da Voltagem")
+
+|Os dois gráficos sobrepostos                                                                  |
+|:--------------------------------------------------------------------------------------------:|
+|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_5.png "Gráfico da Voltagem")|
 + #### Resistor
 Os resistores limitam a corrente e são usados para proteger componentes que queimariam se uma corrente muito alta passasse por eles devido ao calor que seria gerado.
 + #### LED (light emitting diode)
