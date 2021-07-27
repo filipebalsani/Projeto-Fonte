@@ -11,18 +11,18 @@ Tomada                                                                          
 O primeiro componente do circuito é o transformador que tem como função diminuir a tensão de entrada de 127V para 15V.
 Voltagem antes do Transformador                                                             | Voltagem depois do Transformador
 :------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
-![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_1.png "Gráfico da Voltagem")|![Nova Onda]( "Gráfico da Voltagem")
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_1.png "Gráfico da Voltagem")|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_2_1.png "Gráfico da Voltagem")
 + #### Diodo
 A próxima parte do circuito é a ponte de diodo que tem como função é retificar a corrente fazendo com que o semiciclo negativo fique positivo. Além disso cada diodo consome 0.7V portanto a ponte gera uma queda de tensão de 1.4V já que somente dois diodos ficam ativos de cada vez.
 Voltagem antes da Ponte de Diodo Retificadora                                               | Voltagem depois da Ponte de Diodo Retificadora
 :------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
-![Nova Onda]( "Gráfico da Voltagem")|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_3.png "Gráfico da Voltagem")
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_2_1.png "Gráfico da Voltagem")|![3]( "Gráfico da Voltagem")
 |A diferença entre o pico antes da ponte de diodo (21.192 V) e depois da ponte de diodo (19.766 V)|é causada por conta da queda de tensão de 0.7V que cada diodo causa (21.192 - 19.766 = 1.426 V)
 + #### Capacitor
 O próximo componente é o capacitor que faz a filtragem diminuindo a variação de tensão do circuito chamada de _ripple_ (diferença entre o valor do pico da variação da tensão e o valor do ponto mais baixo da variação da tensão) e deixando a tensão e a corrente mais estáveis.
 Voltagem antes do Capacitor                                                                 | Voltagem depois do Capacitor
 :------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
-![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_3.png "Gráfico da Voltagem")|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_4.png "Gráfico da Voltagem")
+![3]( "Gráfico da Voltagem")|![4]( "Gráfico da Voltagem")
 
 |Os dois gráficos sobrepostos                                                                  |
 |:--------------------------------------------------------------------------------------------:|
