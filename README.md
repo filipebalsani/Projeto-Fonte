@@ -66,4 +66,4 @@ Componente|Quantidade|Preço
 [Potenciômetro 5K](https://proesi.com.br/potenciometro-linear-l15-5k-16mm-eixo-estriado.html)|1x|R$ 1,75
 [Transistor NPN](https://proesi.com.br/bc337-transistor.html)|1x|R$ 0,23
 
-## [Circuito Falstad](https://tinyurl.com/yk24k7uf)
+## [Circuito Falstad](https://tinyurl.com/yk24k7uf) sem voltímetros.
