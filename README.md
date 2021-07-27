@@ -8,6 +8,7 @@ Para chegar no valor do capacitor visando um ripple (variação de onda) próxim
 ![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito_3.png "Voltagem filtrada pelo Capacitor")
 
 E comparando a diferença entre o ponto máximo (20.267 V) e o pointo mínimo (18.102 V) se obtém o ripple da onda que é 10.68 % :
+
 `20.267 V - 18.102 V = 2.165 V = ripple em volts`
 `(2.165 V / 20.267 v) * 100 = 10.68 % = ripple em porcentagem `
 ## Componentes do Circuito
