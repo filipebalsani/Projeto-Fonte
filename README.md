@@ -1,8 +1,16 @@
 # Projeto-Fonte
 O Projeto consiste em criar o circuito de uma fonte de tensão ajustável entre 3V e 12V com apacidade de 100mA usando o simulador [Falstad](https://www.falstad.com/circuit/) e em seguida transformar esse circuito de representação simbólica em um Projeto do Esquemático e PCB (printed circuit board) usando a ferramenta EAGLE.
 ## Imagem do [Circuito no Falstad](https://tinyurl.com/yhj39fy2)
-![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito.png "Circuito no Falstad")
-## Componentes do Circuito:
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito_9.png "Circuito no Falstad")
+## Valor do Capacitor
+Para chegar no valor do capacitor visando um ripple (variação de onda) próximo dos 10% testes foram feitos na simulação do falstad com capacitores de valores diferentes no circuito. A conclusão foi que o valor de 470uF produz uma onda com um pico de 20.267 V e um ponto mínimo de 18.102 V:
+
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito_3.png "Voltagem filtrada pelo Capacitor")
+
+E comparando a diferença entre o ponto máximo (20.267 V) e o pointo mínimo (18.102 V) se obtém o ripple da onda que é 10.68 % :
+`20.267 V - 18.102 V = 2.165 V = ripple em volts`
+`(2.165 V / 20.267 v) * 100 = 10.68 % = ripple em porcentagem `
+## Componentes do Circuito
 + #### Fonte de Tensão
 Para alimentar o circuito será preciso liga-lo numa tomada de 110v, portanto será usado  no circuito sumilado do falstad uma fonte de tensão de corrente alternada com 2 terminais configurada com uma **Tensão Máxima** de 179.6V e uma **Frequência** de 60Hz.
 Tomada                                                                                      | Onda da Tensão da Tomada
