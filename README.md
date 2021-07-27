@@ -16,13 +16,13 @@ Voltagem antes do Transformador                                                 
 A próxima parte do circuito é a ponte de diodo que tem como função é retificar a corrente fazendo com que o semiciclo negativo fique positivo. Além disso cada diodo consome 0.7V portanto a ponte gera uma queda de tensão de 1.4V já que somente dois diodos ficam ativos de cada vez.
 Voltagem antes da Ponte de Diodo Retificadora                                               | Voltagem depois da Ponte de Diodo Retificadora
 :------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
-![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_2_1.png "Gráfico da Voltagem")|![3]( "Gráfico da Voltagem")
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_2_1.png "Gráfico da Voltagem")|![3](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_3_1.png "Gráfico da Voltagem")
 |A diferença entre o pico antes da ponte de diodo (21.192 V) e depois da ponte de diodo (19.766 V)|é causada por conta da queda de tensão de 0.7V que cada diodo causa (21.192 - 19.766 = 1.426 V)
 + #### Capacitor
 O próximo componente é o capacitor que faz a filtragem diminuindo a variação de tensão do circuito chamada de _ripple_ (diferença entre o valor do pico da variação da tensão e o valor do ponto mais baixo da variação da tensão) e deixando a tensão e a corrente mais estáveis.
 Voltagem antes do Capacitor                                                                 | Voltagem depois do Capacitor
 :------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
-![3]( "Gráfico da Voltagem")|![4]( "Gráfico da Voltagem")
+![3](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_3_1.png "Gráfico da Voltagem")|![4](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_4_1.png "Gráfico da Voltagem")
 
 |Os dois gráficos sobrepostos                                                                  |
 |:--------------------------------------------------------------------------------------------:|
