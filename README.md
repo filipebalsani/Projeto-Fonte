@@ -3,6 +3,7 @@ O Projeto consiste em criar o circuito de uma fonte de tensão ajustável entre 
 ## Componentes do Circuito:
 + #### Fonte de Tensão
 Para alimentar o circuito será preciso liga-lo numa tomada de 110v, portanto será usado  no circuito sumilado do falstad uma fonte de tensão de corrente alternada com 2 terminais configurada com uma **Tensão Máxima** de 179.6V e uma **Frequência** de 60Hz.
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/1_Fonte_de_Tensao.png "Tomada")
 + #### Transformador
 O primeiro componente do circuito é o transformador que tem como função diminuir a tensão de entrada de 127V para 15V.
 + #### Diodo
