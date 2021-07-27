@@ -1,9 +1,12 @@
 # Projeto-Fonte
 O Projeto consiste em criar o circuito de uma fonte de tensão ajustável entre 3V e 12V com apacidade de 100mA usando o simulador [Falstad](https://www.falstad.com/circuit/) e em seguida transformar esse circuito de representação simbólica em um Projeto do Esquemático e PCB (printed circuit board) usando a ferramenta EAGLE.
+
 ## Componentes do Circuito:
 + #### Fonte de Tensão
 Para alimentar o circuito será preciso liga-lo numa tomada de 110v, portanto será usado  no circuito sumilado do falstad uma fonte de tensão de corrente alternada com 2 terminais configurada com uma **Tensão Máxima** de 179.6V e uma **Frequência** de 60Hz.
-![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/1_Fonte_de_Tensao.png "Tomada")
+Tomada                                                                                      | Onda da Tensão da Tomada
+:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/1_Fonte_de_Tensao.png "Tomada")|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_1.png "Gráfico da Voltagem")
 + #### Transformador
 O primeiro componente do circuito é o transformador que tem como função diminuir a tensão de entrada de 127V para 15V.
 + #### Diodo
