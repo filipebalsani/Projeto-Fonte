@@ -42,8 +42,14 @@ Os resistores limitam a corrente e são usados para proteger componentes que que
 Serve para indicar que o circuito está ligado. É um diodo que emite uma luz quando uma corrente passa por ele.
 + #### Diodo Zener
 O Zener faz a função de regulagem que visa cessar a variação de tensão do circuito. É um dido com uma barreira de tensão mais baixa que deixa a corrente passar assim que receber uma tensão maior que sua barreira, que no zener desse ciruito é 13V.
+|Gráfico da corrente e tensão final com o ptênciometro ajustado para 12V                    | 
+:------------------------------------------------------------------------------------------:|
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito_2.png "Tensão e Corrente Final")|
 + #### Potenciômetro
 É um resistor que pode variar o valor de sua resistência permitindo ajustar a tensão do circuito entre 12V e 3V.
+|Gráfico da corrente e tensão final com o ptênciometro ajustado para 3V                    | 
+:------------------------------------------------------------------------------------------:|
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito_4.png "Tensão e Corrente Final")|
 + #### Transistor Bipolar NPN
 O transistor permite a passagem de corrente de forma ajustável.
 ## Tabela de Componentes
