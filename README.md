@@ -9,6 +9,9 @@ Tomada                                                                          
 ![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/1_Fonte_de_Tensao.png "Tomada")|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_1.png "Gráfico da Voltagem")
 + #### Transformador
 O primeiro componente do circuito é o transformador que tem como função diminuir a tensão de entrada de 127V para 15V.
+Voltagem antes do Transformador                                                             | Voltagem depois do Transformador
+:------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_1.png "Gráfico da Voltagem")|![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Onda_2.png "Gráfico da Voltagem")
 + #### Diodo
 A próxima parte do circuito é a ponte de diodo que tem como função é retificar a corrente fazendo com que o semiciclo negativo fique positivo. Além disso cada diodo consome 0.7V portanto a ponte gera uma queda de tensão de 1.4V já que somente dois diodos ficam ativos de cada vez.
 + #### Capacitor
