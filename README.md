@@ -2,6 +2,7 @@
 O Projeto consiste em criar o circuito de uma fonte de tensão ajustável entre 3V e 12V com apacidade de 100mA usando o simulador [Falstad](https://www.falstad.com/circuit/) e em seguida transformar esse circuito de representação simbólica em um Projeto do Esquemático e PCB (printed circuit board) usando a ferramenta EAGLE.
 ## Imagem do [Circuito no Falstad](https://tinyurl.com/yhj39fy2)
 ![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito_9.png "Circuito no Falstad")
+## [Vídeo]() Explicando o Circuito
 ## Valor do Capacitor
 Para chegar no valor do capacitor visando um ripple (variação de onda) próximo dos 10% testes foram feitos na simulação do falstad com capacitores de valores diferentes no circuito. A conclusão foi que o valor de 470uF produz uma onda com um pico de 20.267 V e um ponto mínimo de 18.102 V:
 
@@ -69,5 +70,3 @@ Componente|Quantidade|Preço
 [Diodo Zener 13V](https://proesi.com.br/diodo-zener-1-4w-1n964-13v-bzx79c13v.html)|1x|R$ 0,12
 [Potenciômetro 5K](https://proesi.com.br/potenciometro-linear-l15-5k-16mm-eixo-estriado.html)|1x|R$ 1,75
 [Transistor NPN](https://proesi.com.br/bc337-transistor.html)|1x|R$ 0,23
-
-## [Circuito Falstad](https://tinyurl.com/yk24k7uf) sem voltímetros.
