@@ -59,7 +59,7 @@ Componente|Quantidade|Preço
 [Transformador 15V](https://proesi.com.br/transformador-entrada-110-220v-saida-7-5-7-5-200ma.html)|1x|R$ 28,95
 [Diodo 1N4004](https://proesi.com.br/1n4004-diodo.html)|4x|R$ 0,08
 [Capacitor 470uF](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-35v.html)|1x|R$ 0,77
-[LED](https://proesi.com.br/led-difuso-5mm-vermelho.html)|1x|R$ R$ 0,21
+[LED](https://proesi.com.br/led-difuso-5mm-vermelho.html)|1x|R$ 0,21
 [Resistor 2.2k](https://proesi.com.br/resistor-carbono-cr25-1-4w-2k2.html)|2x|R$ 0,03
 [Resistor 1k](https://proesi.com.br/resistor-carbono-cr25-1-4w-1k.html)|1x|R$ 0,03
 [Diodo Zener 13V](https://proesi.com.br/diodo-zener-1-4w-1n964-13v-bzx79c13v.html)|1x|R$ 0,12
