@@ -70,3 +70,5 @@ Componente|Quantidade|Preço
 [Diodo Zener 13V](https://proesi.com.br/diodo-zener-1-4w-1n964-13v-bzx79c13v.html)|1x|R$ 0,12
 [Potenciômetro 5K](https://proesi.com.br/potenciometro-linear-l15-5k-16mm-eixo-estriado.html)|1x|R$ 1,75
 [Transistor NPN](https://proesi.com.br/bc337-transistor.html)|1x|R$ 0,23
+
+Valor Total: R$ 32,44
