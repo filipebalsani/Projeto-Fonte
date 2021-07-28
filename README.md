@@ -53,6 +53,10 @@ O Zener faz a função de regulagem que visa cessar a variação de tensão do c
 ![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Circuito_4.png "Tensão e Corrente Final")|
 + #### Transistor Bipolar NPN
 O transistor permite a passagem de corrente de forma ajustável.
+## Circuito no EAGLE
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/EAGLE_circuito1.png "Circuito no EAGLE")
+## PCB no EAGLE
+![](https://github.com/filipebalsani/Projeto-Fonte/blob/main/Board_EAGLE.png "PCB no EAGLE")
 ## Tabela de Componentes
 Componente|Quantidade|Preço
 ---|---|---
